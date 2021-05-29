@@ -1,0 +1,3 @@
+[submodule "SNSY_TicketSync"]
+	path = SNSY_TicketSync
+	url = https://github.com/UiPath-LAB-TEC/SNSY_TicketSync.git
