@@ -1,3 +1,9 @@
 [submodule "SNSY_TicketSync"]
 	path = SNSY_TicketSync
 	url = https://github.com/UiPath-LAB-TEC/SNSY_TicketSync.git
+[submodule "AWS_CloudProvision"]
+	path = AWS_CloudProvision
+	url = https://github.com/UiPath-LAB-TEC/AWS_CloudProvision.git
+[submodule "WKDY_EmployeeReport"]
+	path = WKDY_EmployeeReport
+	url = https://github.com/UiPath-LAB-TEC/WKDY_EmployeeReport.git
